@@ -190,3 +190,19 @@
     justify-content: center;
     align-items: center;
 }
+
+.view-all-btn{
+    background-color: #770015;
+    width: 170px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+    border: #fff;
+}
+
+.banner-image{
+    height: 498px;
+    width: 100%;
+    margin-top: 40px;
+}
